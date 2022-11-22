@@ -4,4 +4,4 @@ def double_power(current_powers: list) -> list:
         numb *= 2
         res.append(numb)
     return res
-print(double_power([34, 40, 21]))
+print(double_power([34, 40, 27]))

@@ -10,4 +10,4 @@ def checkio(number):
 
         return x
 
-print(checkio(15))
+print(checkio(17))
